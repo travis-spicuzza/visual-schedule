@@ -1,10 +1,112 @@
+/* Colors to use::
+#FA7070
+#FBF2CF
+#C6EBC5
+#A1C298
+*/
 
-
-td {
-  border: 1px solid;
-  padding: 30px;
-  border-radius: 5px;
+body {
+  background-color: #FBF2CF;
+  margin-top: 0;
 }
+
+.mainbody {
+  width: 90%;
+  position: relative;
+  left: 5%;
+}
+
+#title {
+  width: 75%;
+  position: relative;
+  left: 12.5%;
+  text-align: center;
+  padding: 3rem 0 2rem 0;
+  font-size: 3rem;
+}
+
+#titledesc {
+  width: 75%;
+  position: relative;
+  left: 12.5%;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.titleanddesc {
+  margin: 0;
+  border: 0;
+}
+
+.calheadings {
+  width: 75%;
+  position: relative;
+  left: 12.5%;
+  text-align: center;
+  padding: 2rem 0 0 0;
+  font-size: 2.5rem;
+}
+
+.fakediv {
+  width: 12.5%;
+  height: 60px;
+  display: inline-block;
+  margin: 0 -.5rem 0 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.days {
+  background-color: #CDF0EA;
+  font-weight: bold;
+  width: 12.5%;
+  height: 60px;
+  border: .05rem solid;
+  display: inline-block;
+  margin: 0 -.5rem 0 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.holland {
+  background-color: #A1C298;
+  width: 12.5%;
+  height: 60px;
+  border: .05rem solid;
+  display: inline-block;
+  margin: 0 -.5rem 0 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.remote {
+  background-color: #C6EBC5;
+  width: 12.5%;
+  height: 60px;
+  border: .05rem solid;
+  display: inline-block;
+  margin: 0 -.5rem 0 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.ooo {
+  background-color: #F6C6EA;
+  width: 12.5%;
+  height: 60px;
+  border: .05rem solid;
+  display: inline-block;
+  margin: 0 -.5rem 0 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/*
 
 .holland {
   background-color: #CDF0EA;
@@ -21,3 +123,5 @@ td {
 .weekend {
   background-color: #FFE6E6;
 }
+
+*/
