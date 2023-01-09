@@ -61,6 +61,7 @@ body {
 .fakediv {
   width: 12.5%;
   height: 60px;
+  border: .05rem solid #FBF2CF;
   display: inline-block;
   margin: 0 -.5rem 0 0;
   padding: 0;
